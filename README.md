@@ -1,4 +1,4 @@
-# Membership-Dues-Management-
+# Membership-Dues-Management
 [DSS] App to manage the membership dues of a local student association (CeSIUM). Developed in Java as a small project for "Desenvolvimento de Sistemas de Software" course in Computer Software Engineering at University of Minho.
 
 # Contributors
@@ -8,3 +8,7 @@
 [Francisco Oliveira](https://github.com/Tibblue)
 
 [Raul Vilas Boas](https://github.com/MrBoas)
+
+# Classification
+
+Project not subject to evaluation.
